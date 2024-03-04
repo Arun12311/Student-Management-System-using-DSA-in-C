@@ -20,8 +20,10 @@ All students info. in Table format :
 ![image](https://github.com/Arun12311/Student-Management-System-using-DSA-in-C/assets/108878412/d68be6dd-547b-4be3-8911-6ce626f2957a)
 
 Searching a student by student ID :
+
 ![image](https://github.com/Arun12311/Student-Management-System-using-DSA-in-C/assets/108878412/66860a8f-7fe3-406e-85d7-7625385d470b)
 
 Adding new Student :
+
 ![image](https://github.com/Arun12311/Student-Management-System-using-DSA-in-C/assets/108878412/0a315e45-49b2-4965-8c53-cc39c3665d7a)
 
